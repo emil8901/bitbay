@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/bitbay/static/js/main.f8d21b3b.chunk.js",
+    "main.js.map": "/bitbay/static/js/main.f8d21b3b.chunk.js.map",
+    "runtime-main.js": "/bitbay/static/js/runtime-main.71745cea.js",
+    "runtime-main.js.map": "/bitbay/static/js/runtime-main.71745cea.js.map",
+    "static/js/2.68062cf2.chunk.js": "/bitbay/static/js/2.68062cf2.chunk.js",
+    "static/js/2.68062cf2.chunk.js.map": "/bitbay/static/js/2.68062cf2.chunk.js.map",
+    "static/js/3.c11d815f.chunk.js": "/bitbay/static/js/3.c11d815f.chunk.js",
+    "static/js/3.c11d815f.chunk.js.map": "/bitbay/static/js/3.c11d815f.chunk.js.map",
+    "index.html": "/bitbay/index.html",
+    "static/js/2.68062cf2.chunk.js.LICENSE.txt": "/bitbay/static/js/2.68062cf2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.71745cea.js",
+    "static/js/2.68062cf2.chunk.js",
+    "static/js/main.f8d21b3b.chunk.js"
+  ]
+}
