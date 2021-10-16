@@ -23,8 +23,8 @@ const OrderBookHeader = styled.div`
 
 const OrderBookList = styled.div`
   display: flex;
-  min-height: 328px;
-  max-height: 328px;
+  min-height: 338px;
+  max-height: 338px;
   overflow: hidden;
   width: 100%;
 
